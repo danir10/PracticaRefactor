@@ -27,6 +27,6 @@ public class Moto {
 	}
 
 	public void setCilindrada(int c) {
-		cilindrada = c;
+		cilindrada = c; 
 	}
 }
