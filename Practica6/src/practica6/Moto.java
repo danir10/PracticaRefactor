@@ -1,4 +1,4 @@
-package practica6;
+package practica6; 
 
 public class Moto {
 	String matricula;

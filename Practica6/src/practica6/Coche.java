@@ -28,7 +28,7 @@ public class Coche {
 		} else if (atrib == "Diesel") {
 			resultado += "El coche con matricula " + matricula + " ";
 			resultado += metodoB(modelo, fabricante);
-		} else if (atrib == "Híbrido") {
+		} else if (atrib == "Híbrido") { 
 			resultado += "El coche con matricula " + matricula + " ";
 			resultado += metodoC(modelo, fabricante);
 		} else {
